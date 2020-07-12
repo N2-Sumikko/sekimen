@@ -1,1 +1,2 @@
-test
+# Build Guide
+こちらはsekimenのビルドガイドです。
