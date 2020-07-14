@@ -55,6 +55,60 @@
 
 <img width="600" alt="全ダイオードはんだ付け後" src="https://user-images.githubusercontent.com/54104281/87407963-d1793200-c5fd-11ea-9df4-4359d3c1145a.png">
 
+# OLED部分のはんだジャンパ(ver1.02まで）
+OLED用のパッド4箇所のはんだジャンパ(はんだでパッド同士を繋ぐ)をします。ver1.03以降の基板では不要です。
+
+まず、１箇所パッドの両側に予備はんだをします。(隣のパッドにはんだが付きそうで不安な時は、はんだを付けたくないパッドの上にマスキングテープ等を貼るとよいです。)
+
+<img width="600" alt="OLEDパッド予備はんだ後" src="https://user-images.githubusercontent.com/54104281/87408305-40ef2180-c5fe-11ea-9759-d8edf5500395.png">
+
+その後、予備はんだを用いてパッド同士を繋ぐようにはんだ付けします。
+
+<img width="600" alt="OLEDパッドはんだジャンパ後" src="https://user-images.githubusercontent.com/54104281/87408441-6da33900-c5fe-11ea-9c12-3a466bbf30f5.png">
+
+同様に残りの3箇所もはんだジャンパをします。
+
+# TRRSジャックのはんだ付け
+
+まず、基板にTRRSジャックを取付けます。
+
+TRRSジャックの突起が基板の穴にぴったりはまるので、固定は比較的簡単です。
+
+<img width="600" alt="TRRSジャック取付後表面" src="https://user-images.githubusercontent.com/54104281/87408852-0cc83080-c5ff-11ea-9de1-d42667e5fe1c.png">
+
+取付後、TRRSジャックの端子4つをはんだ付けします。
+
+<img width="600" alt="TRRSジャックはんだ付け後" src="https://user-images.githubusercontent.com/54104281/87408953-36815780-c5ff-11ea-9381-7cbb33b566cb.png">
+
+# ピンソケット1x12　2つのはんだ付け
+
+ピンソケット(1x12)2つを基板に対してなるべく垂直に取付け、はんだ付けします。
+
+<img width="600" alt="ピンソケット1x12取付後表面" src="https://user-images.githubusercontent.com/54104281/87409393-d63ee580-c5ff-11ea-882a-863ad8bc0966.png">
+
+まずはピンソケットの端子1つだけをはんだ付けするとピンソケットが基板にある程度固定されるので、その状態でピンソケットが浮いていないか、角度が問題ないかをチェックするとよいです。
+
+<img width="600" alt="ピンソケット1x12_1ピンはんだ付け後" src="https://user-images.githubusercontent.com/54104281/87409575-143c0980-c600-11ea-85d5-183e0d3ad9e9.png">
+
+問題がある場合ははんだを溶かしながら調節します。(調整時ははんだごてや基板、部品の持ち方が不自然になりがちなので、やけどにご注意ください。)
+
+位置決めがどうしても難しい場合は、ピンソケットの樹脂部分(端子ではありません)と基板を接着剤等で接着してしまうのもよいかと思います。
+
+<img width="600" alt="ピンソケット1x12はんだ付け後" src="https://user-images.githubusercontent.com/54104281/87409968-ae03b680-c600-11ea-8d1b-bd9917c2800f.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
