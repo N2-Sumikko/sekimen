@@ -184,7 +184,7 @@ pro_microへピンヘッダ1x12 2つを画像のようにはんだ付けしま�
 
 <img width="600" alt="トッププレート_12mmスペーサー取付後" src="https://user-images.githubusercontent.com/54104281/87538543-571ce080-c6d7-11ea-96c0-621e25bc5b27.png">
 
-取付を忘れるとリカバリが大変なので注意してください。
+後から取り付けるのは大変なので、ここで忘れずに取り付けてください。
 
 # トッププレートの四隅へのキースイッチ取付け
 トッププレートの四隅へキースイッチを取り付けます。
@@ -230,6 +230,45 @@ pro_microへピンヘッダ1x12 2つを画像のようにはんだ付けしま�
 写真のように、基板へLEDテープを貼付けます。
 
 <img width="600" alt="LEDテープ貼付後" src="https://user-images.githubusercontent.com/54104281/87540127-15da0000-c6da-11ea-886b-ccc0d9d766d1.png">
+
+LEDテープには向きがありますので、間違えないように注意してください。向きは次の画像をご参考ください。
+
+<img width="600" alt="LEDテープ向き確認用" src="https://user-images.githubusercontent.com/54104281/87541477-4753cb00-c6dc-11ea-9188-7cc88879a2be.png">
+
+# LEDテープのはんだジャンパ
+写真のようにLEDテープの端子とパッドをはんだジャンパします。
+LEDテープの端子にははんだが乗りにくいので、フラックスを塗ってからのはんだ付けを推奨します。(私はフラックス無しではんだジャンパ出来る気がしません。)
+
+<img width="600" alt="LEDテープはんだ付け後" src="https://user-images.githubusercontent.com/54104281/87541841-ec6ea380-c6dc-11ea-83f0-f8b248725518.png">
+
+# M2x7mmスペーサー4つの取付け
+
+画像のように、基板の穴へM2x7mmのスペーサー4つを取付けます。(この時点では穴に嵌っているだけの状態です。)
+
+<img width="600" alt="7mmスペーサー取付後" src="https://user-images.githubusercontent.com/54104281/87542038-3d7e9780-c6dd-11ea-9132-1ea5bf9d2ce4.png">
+
+# M2x7mmスペーサー4つのトッププレートへのねじ止め
+
+画像のように、トッププレートとM2x7mmスペーサーをM2x4mmのねじでねじ止めします。
+
+<img width="600" alt="7mmスペーサー表面ねじ止め後" src="https://user-images.githubusercontent.com/54104281/87542309-b8e04900-c6dd-11ea-8618-835553f295db.png">
+
+# ボトムプレートのM2x7mmスペーサー4つへのねじ止め
+
+画像のように、ボトムプレートをM2x7mmスペーサーへM2x4mmねじでねじ止めします。
+
+<img width="600" alt="ボトムプレートねじ止め後" src="https://user-images.githubusercontent.com/54104281/87542534-0bba0080-c6de-11ea-911c-9da7eea1102b.png">
+
+
+
+
+
+
+
+
+
+
+
 
 
 
