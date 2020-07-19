@@ -264,7 +264,7 @@ pro_microへのファームウェア書込み
 
 取付後、キースイッチの端子が基板の穴から出ていることを確認します。
 
-<img width="600" alt="全キースイッチ取付後" src="https://user-images.githubusercontent.com/54104281/87539673-479e9700-c6d9-11ea-9d01-a1ba58d9136a.png">
+<img width="600" alt="全キースイッチ取付後" src="https://user-images.githubusercontent.com/54104281/87878736-15ff3600-ca21-11ea-8007-6abd148e20b3.png">
 
 # 残りのキースイッチのはんだ付け
 
