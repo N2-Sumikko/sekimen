@@ -17,6 +17,8 @@ https://docs.qmk.fm/#/ja/newbs_getting_started
 
 また、こちらのURL等も参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
 
+
+
 https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
 
 インストール後、PC上に任意の名前のフォルダを一つ作成します。(出来れば英語のファイル名が良いです。github_workとか)
@@ -42,7 +44,7 @@ cd コピーしたフォルダのパス(ただし￥は/に置き換えます。
 
 移動後、以下のコマンドをそれぞれ入力し、Enterキーを押します。
 
-git clone sekimenのファームウェアがあるgithubのパス
+git clone --recurse-submodules sekimenのファームウェアがあるgithubのパス
 
 cd qmk_firmware
 
