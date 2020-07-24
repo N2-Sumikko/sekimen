@@ -46,7 +46,7 @@ git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
 
 ファームウェア書込みに使用するフォルダが現在のフォルダにコピーされます。
 
-(注意：現時点ではsekimenのファームウェアはこのフォルダの中にはありません。現在追加作業中です。)
+(注意：現時点(20200724時点)ではsekimenのファームウェアはこのフォルダの中にはありません。現在追加作業中です。)
 
 その後、以下のコマンドを入力し、Enterキーを押します。
 
@@ -67,7 +67,7 @@ make sekimen:default:avrdude
 
 ファームウェアの書込み開始後しばらくすると、画像のような状態になります。
 
-(リセット待機中の画像または埋め込み)
+<img width="303" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386175-d357a800-cdea-11ea-92e2-48a39595d463.png">
 
 その状態で、ピンセット等でキーボードのリセットスイッチを押します。
 
@@ -75,9 +75,9 @@ make sekimen:default:avrdude
 
 そうすると画面の状態が変わります。
 
-画像のようなが表示されたら、ファームウェアの書込みは完了です。
+画像のように「Thank you.」が表示されたら、ファームウェアの書込みは完了です。
 
-(ファームウェアの書込み完了後の画像または埋め込み)
+<img width="304" alt="ファームウェア書込み完了後" src="https://user-images.githubusercontent.com/54104281/88386216-e2d6f100-cdea-11ea-9bf8-4c8ea710748b.png">
 
 もう片方のキーボードに対しても同様の手順でファームウェアを書き込みます。
 
