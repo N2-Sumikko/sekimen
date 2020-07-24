@@ -67,7 +67,7 @@ make sekimen:default:avrdude
 
 ファームウェアの書込み開始後しばらくすると、画像のような状態になります。
 
-<img width="303" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386175-d357a800-cdea-11ea-92e2-48a39595d463.png">
+<img width="631" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386894-47df1680-cdec-11ea-85de-e396c91621fe.png">
 
 その状態で、ピンセット等でキーボードのリセットスイッチを押します。
 
@@ -77,7 +77,7 @@ make sekimen:default:avrdude
 
 画像のように「Thank you.」が表示されたら、ファームウェアの書込みは完了です。
 
-<img width="304" alt="ファームウェア書込み完了後" src="https://user-images.githubusercontent.com/54104281/88386216-e2d6f100-cdea-11ea-9bf8-4c8ea710748b.png">
+<img width="631" alt="ファームウェア書込み完了後" src="https://user-images.githubusercontent.com/54104281/88386917-5a595000-cdec-11ea-8ddd-b8a9ad53c5b0.png">
 
 もう片方のキーボードに対しても同様の手順でファームウェアを書き込みます。
 
