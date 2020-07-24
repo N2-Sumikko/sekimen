@@ -45,6 +45,7 @@ cd コピーしたフォルダのパス(ただし￥は/に置き換えます。
 git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
 
 ファームウェア書込みに使用するフォルダが現在のフォルダにコピーされます。
+
 (注意：現時点ではsekimenのファームウェアはこのフォルダの中にはありません。現在追加作業中です。)
 
 その後、以下のコマンドを入力し、Enterキーを押します。
