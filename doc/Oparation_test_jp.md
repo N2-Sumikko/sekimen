@@ -1,7 +1,7 @@
 # Operation test
 こちらはsekimenの動作テスト用の資料です。
 
-ファームウェア書込み環境を構築し、キーボードの動作を確認するまでの手順が記載されています。
+ファームウェア書込み環境を構築し、キーボードの動作を確認するまでの手順を記載しています。
 
 本手順はWindows(厳密にはWindows10)にてキャラクタユーザインターフェース用のソフトウェアであるMSYS2を使用する場合を基準にしています。
 
@@ -15,7 +15,7 @@ https://docs.qmk.fm/#/ja/newbs_getting_started
 
 を参考に、MSYS2及びgitをインストールします。
 
-また、こちらのURL等も参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
+また、こちらのWebページ等も参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
 
 https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
 
@@ -69,13 +69,11 @@ make sekimen:default:avrdude
 
 <img width="631" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386894-47df1680-cdec-11ea-85de-e396c91621fe.png">
 
-その状態で、ピンセット等でキーボードのリセットスイッチを押します。
+その状態で、画像のようにピンセット等でリセットスイッチを押します。
 
-(リセットスイッチを押している画像)
+<img width="384" alt="リセットスイッチ押下" src="https://user-images.githubusercontent.com/54104281/88387972-8d9cde80-cdee-11ea-958a-3a7649bd6e96.png">
 
-そうすると画面の状態が変わります。
-
-画像のように「Thank you.」が表示されたら、ファームウェアの書込みは完了です。
+そうすると画面の状態が変わります。画像のように「Thank you.」が表示されたら、ファームウェアの書込みは完了です。
 
 <img width="631" alt="ファームウェア書込み完了後" src="https://user-images.githubusercontent.com/54104281/88386917-5a595000-cdec-11ea-8ddd-b8a9ad53c5b0.png">
 
@@ -83,9 +81,7 @@ make sekimen:default:avrdude
 
 #　左右のキーボードのTRRSケーブルでの接続
 
-左右のキーボードのTRRSジャック間をTRRSケーブルで接続します。
-
-TRRSケーブルは奥まで差し込んでください。
+左右のキーボードのTRRSジャック間をTRRSケーブルで接続します。TRRSケーブルは奥まで差し込んでください。
 
 (左右キーボードのTRRSケーブル接続時の画像。ケーブル部分が映っていればいい。完成したキーボードでもOK)
 
