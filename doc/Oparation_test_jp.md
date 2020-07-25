@@ -35,10 +35,9 @@ https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
 
 >　cd コピーしたフォルダのパス(ただし、￥は/に置換えたもの)/作成したフォルダ名
 
-先ほど作成したフォルダの中へ移動できます。
-赤枠の部分がフォルダのパスと一致していればOKです。
+先ほど作成したフォルダの中へ移動できます。画像の赤枠の部分がフォルダのパスと一致していればOKです。
 
-<img width="455" alt="フォルダ移動後" src="https://user-images.githubusercontent.com/54104281/88305963-18c19a00-cd45-11ea-8134-c1be2137aa82.png">
+<img width="455" alt="フォルダ移動後" src="https://user-images.githubusercontent.com/54104281/88443697-4b0ded00-ce54-11ea-9dc3-71e0b4ea7e55.png">
 
 移動後、以下のコマンドを入力し、Enterキーを押します。
 
@@ -81,9 +80,9 @@ https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
 
 #　左右のキーボードのTRRSケーブルでの接続
 
-左右のキーボードのTRRSジャック間をTRRSケーブルで接続します。TRRSケーブルは奥まで差し込んでください。
+左右のキーボードのTRRSジャック間をTRRSケーブルで接続します。TRRSケーブルは画像のように奥まで差し込んでください。
 
-(左右キーボードのTRRSケーブル接続時の画像。ケーブル部分が映っていればいい。完成したキーボードでもOK)
+![TRRSケーブル接続後](https://user-images.githubusercontent.com/54104281/88444045-1bf87b00-ce56-11ea-8704-1defd4502a11.png)
 
 #　左キーボードのpro_microとPC間をUSBケーブルで接続
 
