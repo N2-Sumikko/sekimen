@@ -450,8 +450,6 @@ LEDテープの端子にははんだが乗りにくいので、フラックス�
 
 キースイッチへお好みのキーキャップを取付けます。
 
-<img width="450" alt="キースイッチ33個取付後" src="https://user-images.githubusercontent.com/54104281/87871132-df0d2e00-c9e8-11ea-88f8-de73b03ba020.png">
-
 ![完成後](https://user-images.githubusercontent.com/54104281/87871346-863e9500-c9ea-11ea-815b-f21ac83e1fd6.png)
 
 #  動作確認
