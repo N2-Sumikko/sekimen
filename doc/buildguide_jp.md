@@ -508,8 +508,10 @@ LEDテープの端子にははんだが乗りにくいので、フラックス�
 
 変更前
 <img width="528" alt="ファームウェア変更前" src="https://user-images.githubusercontent.com/54104281/88449830-28e09300-ce85-11ea-8ee5-ccf5d559230b.png">
+
 変更後
 <img width="528" alt="ファームウェア変更後" src="https://user-images.githubusercontent.com/54104281/88449833-33029180-ce85-11ea-88d9-12b6eb985240.png">
+
 変更後は、再度ファームウェアの書込みを行います。
 
 #  動作確認
