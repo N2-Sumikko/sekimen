@@ -65,7 +65,7 @@ cd qmk_firmware
 
 # ProMicroとPC間の接続
 
-移動が完了したら、左右いずれかのpro_mircroの取付けまで完了したキーボードのProMicroとPC間をUSBケーブルで接続します。
+左右いずれかのpro_mircroの取付けまで完了したキーボードのProMicroとPC間をUSBケーブルで接続します。
 
 USBケーブルには充電のみ可能なものと、通信可能なものがありますので、通信可能なものを使用してください。
 
@@ -77,7 +77,7 @@ make sekimen:default:avrdude
 
 すると、ファームウェアの書込みが開始されます。(書込み開始まで少し時間がかかる場合があるので、しばらく待ちます。)
 
-しばらくすると画像のように、「.」が 1つずつ増えていく状態になります。
+しばらくすると画像のように「.」が 1つずつ増えていく状態になります。
 
 <img width="631" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386894-47df1680-cdec-11ea-85de-e396c91621fe.png">
 
