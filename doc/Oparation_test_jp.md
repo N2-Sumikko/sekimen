@@ -33,7 +33,9 @@ https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 起動後、次のコマンドを入力し、Enterキーを押します。
 
->　cd コピーしたフォルダのパス(ただし、￥は/に置換えたもの)/作成したフォルダ名
+```
+cd コピーしたフォルダのパス(ただし、￥は/に置換えたもの)/作成したフォルダ
+```
 
 すると、先ほど作成したフォルダの中へ移動されます。画像の赤枠の部分がフォルダのパスと一致していればOKです。
 
@@ -41,7 +43,9 @@ https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 移動後、以下のコマンドを入力し、Enterキーを押します。
 
-> git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
+```
+git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
+```
 
 ファームウェア書込みに使用するフォルダが現在のフォルダにコピーされます。
 
@@ -49,7 +53,9 @@ https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 その後、以下のコマンドを入力し、Enterキーを押します。
 
-> cd qmk_firmware
+```
+cd qmk_firmware
+```
 
 すると、ファームウェア書込みを行うフォルダの中へ移動されます。
 
@@ -57,7 +63,9 @@ https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 接続後、以下のコマンドを入力し、Enterキーを押します。
 
-> make sekimen:default:avrdude
+```
+make sekimen:default:avrdude
+```
 
 (自分用のメモ：githubに置くファームウェアのデフォルトは5列タイプにしておく。ビルドガイドの拡張基板組立の記述にファームウェアの記述を7列に変更する記述を追加する。
  組立が終われば自然に知識が増えるようにしたい。)
