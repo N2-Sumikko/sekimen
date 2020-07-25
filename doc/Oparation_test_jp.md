@@ -81,7 +81,7 @@ make sekimen:default:avrdude
 
 <img width="631" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386894-47df1680-cdec-11ea-85de-e396c91621fe.png">
 
-その状態で、画像のようにピンセット等でリセットスイッチを押します。
+その状態で、画像のようにピンセット等でリセットスイッチを押します。(画像は説明のため、USBケーブルを取外しています。)
 
 <img width="384" alt="リセットスイッチ押下" src="https://user-images.githubusercontent.com/54104281/88387972-8d9cde80-cdee-11ea-958a-3a7649bd6e96.png">
 
