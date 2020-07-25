@@ -420,7 +420,7 @@ LEDテープの端子にははんだが乗りにくいので、フラックス�
 
 まず、画像を参考に、ベース基板の左側にあるM2x7mmスペーサー2つの位置を変更します。
 
-<img width="400" alt="ベース基板M2x7mmスペーサー位置変更" src="https://user-images.githubusercontent.com/54104281/88448043-7bfe1a00-ce74-11ea-8198-a67e0a77f34b.png">
+<img width="600" alt="ベース基板M2x7mmスペーサー位置変更" src="https://user-images.githubusercontent.com/54104281/88449209-f84a2a80-ce7f-11ea-8113-6606f922d8ab.png">
 
 その後、ボトムプレート2枚をM2x7mmスペーサー6つへM2x4㎜ねじ6本で仮止め(部品が脱落しない程度の強さでねじ止め)します。
 
