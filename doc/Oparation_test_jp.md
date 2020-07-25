@@ -19,7 +19,9 @@ https://docs.qmk.fm/#/ja/newbs_getting_started
 
 https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
-インストール後、PCのデスクトップ等に任意の名前のフォルダを一つ作成します。(出来れば英語の、スペースをを使用しないファイル名が良いです。github_workとか)
+インストール後、PCのデスクトップ等に任意の名前のフォルダを一つ作成します。
+
+(出来れば英語の、スペースを使用しないファイル名が良いです。github_workとか)
 
 <img width="155" alt="フォルダ" src="https://user-images.githubusercontent.com/54104281/88303108-94214c80-cd41-11ea-957e-8696f901dc56.png">
 
