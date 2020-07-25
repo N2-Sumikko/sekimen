@@ -17,7 +17,7 @@ https://docs.qmk.fm/#/ja/newbs_getting_started
 
 また、こちらのWebページ等も参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
 
-https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
+https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 インストール後、PCのデスクトップ等に任意の名前のフォルダを一つ作成します。(出来れば英語のファイル名が良いです。github_workとか)
 
