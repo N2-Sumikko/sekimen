@@ -70,12 +70,12 @@ cd qmk_firmware
  具体的には、Sekimenフォルダ内の「rules.mk」内の、
 
 ```
-OLED_DRIVER_ENABLE = no
+OLED_DRIVER_ENABLE = yes
 ```
 の記述を
 
 ```
-OLED_DRIVER_ENABLE = yes
+OLED_DRIVER_ENABLE = no
 ```
 
 に変更する必要があります。左キーボードへのファームウェア書込みの際はyesに戻します。
