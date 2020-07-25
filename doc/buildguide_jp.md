@@ -180,15 +180,15 @@ OLED用のパッド4箇所のはんだジャンパ(はんだでパッド同士�
 
 右手キーボードでは、キーボード間の通信をシリアル通信で行う場合は画像のように取付けます。
 
-<img width="399" alt="細ピンヘッダピンヘッダ取付位置図解" src="https://user-images.githubusercontent.com/54104281/87876621-4096c200-ca14-11ea-8b76-c0a827d78c01.png">
+<img width="395" alt="シリアル通信時ジャンパピン接続(右)" src="https://user-images.githubusercontent.com/54104281/88445997-895dd900-ce61-11ea-9aac-c0246a95d30a.png">
 
 左キーボードでは以下の画像のように取付けます。
 
-<img width="398" alt="細ピンヘッダジャンパピン取付位置図解_左" src="https://user-images.githubusercontent.com/54104281/87878961-9c684780-ca22-11ea-835f-953fb04f6449.png">
+<img width="604" alt="シリアル通信時ジャンパピン接続(左)" src="https://user-images.githubusercontent.com/54104281/88445990-764b0900-ce61-11ea-9cc0-abe279262944.png">
 
-ジャンパピンの各端子の中心にピンヘッダの端子が入っていることを確認してください。
+写真のようにジャンパピンの各端子の中心にピンヘッダの端子が入っていることを確認してください。
 
-I2C通信時の取付け方法を示す画像は後程追加予定です。(I2C通信可能なように作りましたが、実はまだ試していません…。)
+I2C通信時の取付け方法を示す画像は後程追加予定です。(I2C通信可能なように作りましたが、使用予定の部品が入手できておらず、まだ試していません…。)
 
 <img width="600" alt="ピンヘッダ1x3_ジャンパピン取付後表面" src="https://user-images.githubusercontent.com/54104281/87412608-333c9a80-c604-11ea-9ccc-a97e1d1efe0f.png">
 
