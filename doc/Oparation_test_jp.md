@@ -65,7 +65,7 @@ cd qmk_firmware
 
 # ProMicroとPC間の接続
 
-左右いずれかのpro_mircroの取付けまで完了したキーボードのProMicroとPC間をUSBケーブルで接続します。
+左右いずれかのProMicroの取付けまで完了したキーボードのProMicroとPC間をUSBケーブルで接続します。
 
 USBケーブルには充電のみ可能なものと、通信可能なものがありますので、通信可能なものを使用してください。
 
