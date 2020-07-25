@@ -193,6 +193,8 @@ I2C通信時の取付け方法を示す画像は後程追加予定です。(I2C�
 # ProMicroへのピンヘッダ1x12 2つのはんだ付け
 ProMicroへピンヘッダ1x12 2つを画像のように取付け、はんだ付けします。短い方がProMicro側です。
 
+自作キーボードで良く使用されるコンスルーではなく、ピンヘッダなので注意してください。
+
 <img width="600" alt="promicro_ピンヘッダ1x12はんだ付け後" src="https://user-images.githubusercontent.com/54104281/87413437-44d27200-c605-11ea-8270-798fa447c778.png">
 
 # ピンソケット1x12へのProMicro取付け
