@@ -19,7 +19,7 @@ https://docs.qmk.fm/#/ja/newbs_getting_started
 
 https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
 
-インストール後、PC上に任意の名前のフォルダを一つ作成します。(出来れば英語のファイル名が良いです。github_workとか)
+インストール後、PCのデスクトップ等に任意の名前のフォルダを一つ作成します。(出来れば英語のファイル名が良いです。github_workとか)
 
 <img width="155" alt="フォルダ" src="https://user-images.githubusercontent.com/54104281/88303108-94214c80-cd41-11ea-957e-8696f901dc56.png">
 
@@ -35,7 +35,7 @@ https://qiita.com/cactusman/items/ac41993d1682c6d8a12e
 
 >　cd コピーしたフォルダのパス(ただし、￥は/に置換えたもの)/作成したフォルダ名
 
-先ほど作成したフォルダの中へ移動できます。画像の赤枠の部分がフォルダのパスと一致していればOKです。
+すると、先ほど作成したフォルダの中へ移動されます。画像の赤枠の部分がフォルダのパスと一致していればOKです。
 
 <img width="455" alt="フォルダ移動後" src="https://user-images.githubusercontent.com/54104281/88443697-4b0ded00-ce54-11ea-9dc3-71e0b4ea7e55.png">
 
@@ -102,4 +102,4 @@ https://www.keyboardtester.com/tester.html
 
 これを左右基板の各端子、もしくはキースイッチに対して行います。
 
-キーの入力に問題が無ければ、動作テストは完了です。
+キーの入力に問題が無ければ、動作テストは完了です。おつかれさまでした。
