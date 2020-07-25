@@ -251,7 +251,7 @@ ProMicroへピンヘッダ1x12 2つを画像のように取付け、はんだ付
 
 ファームウェア書込み環境の構築及びファームウェアの書込み、入力動作テストの手順は以下のURLに記載しています。
 
-https://github.com/N2-Sumikko/sekimen/blob/master/doc/Oparation_test_jp.md
+[入力動作テスト](https://github.com/N2-Sumikko/sekimen/blob/master/doc/Oparation_test_jp.md)
 
 # トッププレートへのスペーサーの取り付け
 
