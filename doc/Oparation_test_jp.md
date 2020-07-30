@@ -15,7 +15,7 @@ https://docs.qmk.fm/#/ja/newbs_getting_started
 
 を参考に、MSYS2及びgitをインストールします。
 
-また、こちらのWebページ等もとても参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
+また、こちらのWebページ等も非常に参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
 
 https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
