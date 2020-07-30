@@ -373,7 +373,7 @@ LEDテープの端子にははんだが乗りにくいので、フラックス�
 
 # ProMicroカバーのM2x12mm六角スペーサーへのねじ止め
 
-写真のようにProMicroカバーをM2x12mm六角スペーサー2つへM2x4mmねじ2本でねじ止めします。
+画像のように、保護シールをはがしたProMicroカバーを、M2x12mm六角スペーサー2つへM2x4mmねじ2本でねじ止めします。
 
 <img width="600" alt="OLEDカバー取付後" src="https://user-images.githubusercontent.com/54104281/87543545-e9c17d80-c6df-11ea-9950-d581300e3428.png">
 
