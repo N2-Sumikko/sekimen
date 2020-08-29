@@ -117,7 +117,7 @@
 
 # ファームウェアの変更
 
-ファームウェアの変更に関しては、[こちら](https://github.com/N2-Sumikko/sekimen/blob/master/doc/Oparation_test_jp.md)のせきごん様のリンクをご参考ください。
+ファームウェアの変更に関しては、[こちら](https://github.com/sekigon-gonnoc/qmk_firmware/tree/dev/ble_micro_pro/keyboards/helix/rev2/keymaps/bto_tb)のせきごん様のリンクをご参考ください。
 
 (sekimenの場合、n2useのキーマップを使用してファームウェアを書込み、それをベースにキーマップの変更を行うのが手っ取り早いです。
 
