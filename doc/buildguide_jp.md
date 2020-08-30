@@ -262,13 +262,17 @@ ver1.03以降のバージョンでは、左キーボードのOLEDの左のキー
 
 [入力動作テスト](https://github.com/N2-Sumikko/sekimen/blob/master/doc/Oparation_test_jp.md)
 
-# トッププレートへのスペーサーの取付け
+# トッププレートへM2x12mmスペーサーの取付け
 
-画像のように、トッププレートへ長さ12mmのスペーサー2つをM2x10mmのねじ2本でそれぞれ固定します。左キーボードの場合、トッププレートの向きは画像とは左右逆になります。
+画像のように、トッププレートへM2x12mmのスペーサー2つをM2x10mmのねじ2本でそれぞれ固定します。左キーボードの場合、トッププレートの向きは画像とは左右逆になります。
 
 組立後にスペーサーを取付けるのは難しいので、ここで忘れずに取り付けてください。ねじの長さも10mmですので、間違えないようにしてください。
 
-ただし、トラックボールを使用する場合は、取り付けるスペーサの長さが変わります。詳しくはこちらをご確認ください。(リンク準備中です。)
+ただし、トラックボールモジュールを使用する場合は、M2x4mmスペーサーを使用します。その後の手順はこちらをご確認ください。
+
+[トラックボールモジュールの取付け](https://github.com/N2-Sumikko/sekimen/blob/master/doc/trackball_jp.md)
+
+https://github.com/N2-Sumikko/sekimen/blob/master/doc/trackball_jp.md
 
 <img width="446" alt="トッププレート_12mmスペーサー取付後" src="https://user-images.githubusercontent.com/54104281/88446764-caf18280-ce67-11ea-98e3-0048bd789bff.png">
 
