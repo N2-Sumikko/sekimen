@@ -273,8 +273,6 @@ ver1.03以降のバージョンでは、左キーボードのOLEDの左のキー
 
 [トラックボールモジュールの取付け](https://github.com/N2-Sumikko/sekimen/blob/master/doc/trackball_jp.md)
 
-https://github.com/N2-Sumikko/sekimen/blob/master/doc/trackball_jp.md
-
 <img width="446" alt="トッププレート_12mmスペーサー取付後" src="https://user-images.githubusercontent.com/54104281/88446764-caf18280-ce67-11ea-98e3-0048bd789bff.png">
 
 # トッププレートの四隅へのキースイッチ取付け
