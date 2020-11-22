@@ -120,9 +120,17 @@
 
 # ファームウェアの変更
 
-ファームウェアの変更に関しては、[こちら](https://github.com/sekigon-gonnoc/qmk_firmware/tree/dev/ble_micro_pro/keyboards/helix/rev2/keymaps/bto_tb)のせきごん様のリンクをご参考ください。
+この手順は、動作テストのためのファームウェアの書込みが完了していることを前提としています。
+(つまり、qmk_firmwareのcloneを自分のPC上にダウンロード完了している状態）
+拡張基板を使用していない場合はqmkのsekimenフォルダの5colsフォルダ内、
+拡張基板を使用している場合は７colsフォルダ内のrules.mkの
+POINTING_DEVICE_ENABLE = no
+MOUSEKEY_ENABLE = no
+のnoをyesに変更します。
+その後、ProMicroへファームウェアの書込みを行います。
 
-(時間が確保できたら、このページにdefaultのキーマップをベースにしたファームウェアの整備方法を記載する予定ですので、気長にお待ちいただけると幸いです。）
+ファームウェアの内容に関しては、[こちら](https://github.com/sekigon-gonnoc/qmk_firmware/tree/dev/ble_micro_pro/keyboards/helix/rev2/keymaps/bto_tb)のせきごん様のリンクをご参考ください。
+
 
 
 
