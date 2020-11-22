@@ -329,7 +329,7 @@ ver1.03以降のバージョンでは、左キーボードのOLEDの左のキー
 
 <img width="600" alt="LEDテープ貼付後" src="https://user-images.githubusercontent.com/54104281/87540127-15da0000-c6da-11ea-886b-ccc0d9d766d1.png">
 
-LEDテープには向きがありますので、間違えないように注意してください。向きは次の画像をご参考ください。
+LEDテープには向きがありますので、間違えないように注意してください。向きは次の画像や、基板に印刷してある文字をご参考ください。
 
 <img width="600" alt="LEDテープ向き確認用" src="https://user-images.githubusercontent.com/54104281/87541477-4753cb00-c6dc-11ea-9188-7cc88879a2be.png">
 
