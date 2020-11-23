@@ -46,13 +46,13 @@ cd 控えておいたフォルダのパス(ただし、￥は/に置換えたも
 <img width="455" alt="mingw64ファームウェア書込みフォルダ移動後" src="https://user-images.githubusercontent.com/54104281/99967273-f74bea00-2dda-11eb-8400-3638945d6f8c.png">
 
 
-移動後、以下のコマンドを入力し、Enterキーを押します。
+移動後、以下のコマンドを入力し、Enterキーを押します。(この部分はqmk_firmwareへのファームウェアのプルリクエストが完了するまでの仮の手順です。）
 
 ```
 git clone --recurse-submodules https://github.com/N2-Sumikko/qmk_firmware.git -b add_sekimen
 ```
 
-ファームウェア書込みに使用するフォルダが現在のフォルダにコピーされます。(注意：現時点(20200730時点)では動作確認中です。)
+ファームウェア書込みに使用するフォルダが現在のフォルダにコピーされます。
 
 その後、以下のコマンドを入力し、Enterキーを押します。
 
