@@ -13,7 +13,7 @@
 
 https://docs.qmk.fm/#/ja/newbs_getting_started
 
-を参考に、MSYS2及びgitをインストールします。
+を参考に、MSYS2及びgit、QMK CLIをインストールします。
 
 また、こちらのWebページ等も非常に参考になるかと思います。(ページの作成者様にこの場を借りて感謝致します。)
 
@@ -31,7 +31,7 @@ https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 <img width="300" alt="フォルダのパス" src="https://user-images.githubusercontent.com/54104281/88304171-e3b44800-cd42-11ea-993a-4b857d0bba86.png">
 
-その後、MinGW 64-bitを起動します。
+その後、MinGW 64-bit(mingw64.exe)を起動します。
 
 起動後、次のコマンドを入力し、Enterキーを押します。
 
