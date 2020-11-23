@@ -63,11 +63,13 @@ cd qmk_firmware
 
 左右いずれかのProMicroの取付けまで完了したキーボードのProMicroとPC間をUSBケーブルで接続します。
 
+sekimenは左キーボードのProMicroへUSBケーブルを接続して使用しますが、ファームウェアは左右両方のProMicroへ書き込む必要がありますので注意してください。
+
 USBケーブルには充電のみ可能なものと、通信可能なものがありますので、通信可能なものを使用してください。
 
 # ProMicroへのファームウェア書込み
 
-接続後、以下のコマンドを入力し、Enterキーを押します。(defaultの部分はlike_jisに変えても良いです。）
+接続後、以下のコマンドを入力し、Enterキーを押します。(defaultの部分は必要に応じてlike_jisやviaに変更してください。）
 
 ```
 make sekimen:default:avrdude
