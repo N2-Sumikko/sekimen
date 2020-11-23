@@ -33,6 +33,8 @@ https://qiita.com/mizuhof/items/0c34308c2d57c9345f3a
 
 その後、MinGW 64-bit(mingw64.exe)を起動します。
 
+<img width="455" alt="mingw64起動後" src="https://user-images.githubusercontent.com/54104281/99967237-e7cca100-2dda-11eb-85df-e75deeed8224.png">
+
 起動後、次のコマンドを入力し、Enterキーを押します。
 
 ```
@@ -41,7 +43,8 @@ cd 控えておいたフォルダのパス(ただし、￥は/に置換えたも
 
 すると、先ほど作成したフォルダの中へ移動されます。画像の赤枠の部分が作成したフォルダのパスと一致していればOKです。
 
-<img width="455" alt="フォルダ移動後" src="https://user-images.githubusercontent.com/54104281/88443697-4b0ded00-ce54-11ea-9dc3-71e0b4ea7e55.png">
+<img width="455" alt="mingw64ファームウェア書込みフォルダ移動後" src="https://user-images.githubusercontent.com/54104281/99967273-f74bea00-2dda-11eb-8400-3638945d6f8c.png">
+
 
 移動後、以下のコマンドを入力し、Enterキーを押します。
 
@@ -69,17 +72,27 @@ USBケーブルには充電のみ可能なものと、通信可能なものが�
 
 # ProMicroへのファームウェア書込み
 
-接続後、以下のコマンドを入力し、Enterキーを押します。(defaultの部分は必要に応じてlike_jisやviaに変更してください。）
+接続後、ファームウェア書込み用のコマンドを入力し、Enterキーを押します。
 
+通常時(5列)と拡張基板使用時(7列)でコマンドが違うので注意してください。
+
+(defaultの部分は必要に応じてlike_jisやviaに変更してください。）
+
+通常時
 ```
-make sekimen:default:avrdude
+make sekimen/5cols:default:avrdude
+```
+
+拡張基板使用時
+```
+make sekimen/7cols:default:avrdude
 ```
 
 すると、ファームウェアの書込みが開始されます。(書込み開始まで少し時間がかかる場合があるので、しばらく待ちます。)
 
 しばらくすると画像のように「.」が 1つずつ増えていく状態になります。
 
-<img width="631" alt="リセット待機中" src="https://user-images.githubusercontent.com/54104281/88386894-47df1680-cdec-11ea-85de-e396c91621fe.png">
+<img width="455" alt="mingw64リセット待機中" src="https://user-images.githubusercontent.com/54104281/99967420-3417e100-2ddb-11eb-8549-9596643a3289.png">
 
 その状態で、画像のようにピンセット等でリセットスイッチを押します。(画像は説明のため、USBケーブルを取外しています。)
 
@@ -87,7 +100,7 @@ make sekimen:default:avrdude
 
 リセットスイッチを押すと画面の状態が変わり、処理が先に進みます。画像のように「Thank you.」が表示されたら、ファームウェアの書込みは完了です。
 
-<img width="631" alt="ファームウェア書込み完了後" src="https://user-images.githubusercontent.com/54104281/88386917-5a595000-cdec-11ea-8ddd-b8a9ad53c5b0.png">
+<img width="455" alt="ファームウェア書込み完了後" src="https://user-images.githubusercontent.com/54104281/99967466-4560ed80-2ddb-11eb-8123-8521efd6a8c5.png">
 
 もう片方のキーボードに対しても同様の手順でファームウェアを書き込みます。
 
